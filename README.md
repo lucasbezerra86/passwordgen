@@ -1,2 +1,4 @@
 # passwordgen
-Password Generator in Java
+
+
+Just a small coding to teste SecureRandom. 
