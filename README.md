@@ -1,4 +1,4 @@
 # passwordgen
 
 
-Just a small coding to teste SecureRandom. 
+Just a small coding to test SecureRandom. 
